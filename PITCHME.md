@@ -22,10 +22,10 @@
 
 ### Testing
 
-![API tests](https://i.imgur.com/QIXphto.jpg)
-![Mocha tests](https://i.imgur.com/FLVkLks.png)
-![Backend tests](https://i.imgur.com/EwwWznE.png)
-![Selenium tests](https://i.imgur.com/DclOg50.png)
+<img src="https://i.imgur.com/QIXphto.jpg" />
+<img src="https://i.imgur.com/FLVkLks.png" />
+<img src="https://i.imgur.com/EwwWznE.png" />
+<img src="https://i.imgur.com/DclOg50.png" />
 
 ---
 
