@@ -96,16 +96,35 @@
 
 ### What Did They Do Well?
 
+- Design of the website is clean
+- Grid information on hover
+- Sorting is nice
+- Live searching
+
 ---
 
 ### What Did We Learn?
+
+- React routing
+- Filtering + Sorting on the frontend
+- How to avoid some bugs
 
 ---
 
 # What Could They Do Better?
 
+- Pagination bugs - unresponsive at times
+- Details pages are sparse
+- More filters
+
 ---
 
 # What Puzzles Us?
 
+- Each park has at most 1 snapshot
+- Filter interactions
+- Extraneous data
+
 ---
+
+### Visualization
