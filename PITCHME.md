@@ -32,13 +32,13 @@
 
 ### Frontend Tests
 
-<img src="https://i.imgur.com/FLVkLks.png" width="50%" height ="50%"/>
+<img src="https://i.imgur.com/FLVkLks.png" width="20%" height ="20%"/>
 
 ---
 
 ### Backend Tests
 
-<img src="https://i.imgur.com/EwwWznE.png" width="50%" height ="50%"/>
+<img src="https://i.imgur.com/EwwWznE.png" width="70%" height ="70%"/>
 
 ---
 
