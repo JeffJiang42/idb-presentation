@@ -111,7 +111,7 @@
 
 ---
 
-# What Could They Do Better?
+### What Could They Do Better?
 
 - Pagination bugs - unresponsive at times
 - Details pages are sparse
@@ -119,7 +119,7 @@
 
 ---
 
-# What Puzzles Us?
+### What Puzzles Us?
 
 - Each park has at most 1 snapshot
 - Filter interactions
@@ -127,4 +127,6 @@
 
 ---
 
-### Visualization
+# Visualization
+
+[Link](learning2earn.me/viz)
