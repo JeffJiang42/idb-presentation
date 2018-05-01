@@ -1,10 +1,10 @@
-### Learning2Earn
+# Learning2Earn
 
 
 
 ---
 
-# The Team
+### The Team
 
 - Jeffrey Jiang : Frontend - React framework + API debugger
 - Brandon Chan : Frontend - Frontend components + Frontend testing
