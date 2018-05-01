@@ -14,6 +14,44 @@
 
 ---
 
-### Demo
+# Demo
 
 [Link](http://learning2earn.me)
+
+---
+
+### Testing
+
+![API test](https://i.imgur.com/QIXphto.jpg)
+
+### Self Critique
+
+---
+
+# What Did We Do Well?
+
+---
+
+# What Could We Do Better?
+
+---
+
+# What Puzzles Us?
+
+---
+
+### Other Critique
+
+---
+
+# What Did They Do Well?
+
+---
+
+# What Could They Do Better?
+
+---
+
+# What Puzzles Us?
+
+---
