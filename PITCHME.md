@@ -129,4 +129,4 @@
 
 # Visualization
 
-[Link](learning2earn.me/viz)
+[Link](http://learning2earn.me/viz)
