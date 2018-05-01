@@ -22,29 +22,64 @@
 
 ### Testing
 
-![API test](https://i.imgur.com/QIXphto.jpg)
-
-### Self Critique
-
----
-
-# What Did We Do Well?
+![API tests](https://i.imgur.com/QIXphto.jpg)
+![Mocha tests](https://i.imgur.com/FLVkLks.png)
+![Backend tests](https://i.imgur.com/EwwWznE.png)
+![Selenium tests](https://i.imgur.com/DclOg50.png)
 
 ---
 
-# What Could We Do Better?
+# Self Critique
 
 ---
 
-# What Puzzles Us?
+### What Did We Do Well?
+
+- Good communication
+- Good separation of frontend and backend
+- Solid Filtering + Sorting
+- Searching is "Google Like"
+- Robust API (can survive a DDOS)
 
 ---
 
-### Other Critique
+### What Did We Learn?
+
+- How to use React
+- How to set up an API
+- AWS
+- Sometimes the best solution is to make it yourself
+- Don't DDOS yourself (API calls in `render()` are bad)
 
 ---
 
-# What Did They Do Well?
+### What Could We Do Better?
+
+- Bi-Weekly "Hackathons"
+- Frontend aesthetics could use work
+- Frontend code quality could use improvement
+- More data
+
+---
+
+### What Puzzles Us?
+
+- Asynchronous programming
+- Selenium testing
+- D3 + React
+- Why some big websites have bad APIs
+
+---
+
+# Other Critique
+
+---
+
+### What Did They Do Well?
+
+---
+
+### What Did We Learn?
 
 ---
 
