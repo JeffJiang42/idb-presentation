@@ -22,10 +22,10 @@
 
 ### Testing
 
-<img src="https://i.imgur.com/QIXphto.jpg" />
-<img src="https://i.imgur.com/FLVkLks.png" />
-<img src="https://i.imgur.com/EwwWznE.png" />
-<img src="https://i.imgur.com/DclOg50.png" />
+<img src="https://i.imgur.com/QIXphto.jpg" width="10%" heigh ="10%"/>
+<img src="https://i.imgur.com/FLVkLks.png" width="10%" heigh ="10%"/>
+<img src="https://i.imgur.com/EwwWznE.png" width="10%" heigh ="10%"/>
+<img src="https://i.imgur.com/DclOg50.png" width="10%" heigh ="10%"/>
 
 ---
 
