@@ -32,7 +32,7 @@
 
 ### Frontend Tests
 
-<img src="https://i.imgur.com/FLVkLks.png" width="20%" height ="20%"/>
+<img src="https://i.imgur.com/FLVkLks.png" width="40%" height ="40%"/>
 
 ---
 
