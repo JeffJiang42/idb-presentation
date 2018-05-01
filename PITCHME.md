@@ -20,11 +20,30 @@
 
 ---
 
-### Testing
+# Testing
+
+---
+
+### API Tests
 
 <img src="https://i.imgur.com/QIXphto.jpg" width="50%" height ="50%"/>
+
+---
+
+### Frontend Tests
+
 <img src="https://i.imgur.com/FLVkLks.png" width="50%" height ="50%"/>
+
+---
+
+### Backend Tests
+
 <img src="https://i.imgur.com/EwwWznE.png" width="50%" height ="50%"/>
+
+---
+
+### Selenium tests
+
 <img src="https://i.imgur.com/DclOg50.png" width="50%" height ="50%"/>
 
 ---
